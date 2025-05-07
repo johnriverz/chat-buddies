@@ -1,0 +1,9 @@
+﻿<Application x:Class="chat_buddies.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:chat_buddies"
+             StartupUri="MVVM/View/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
